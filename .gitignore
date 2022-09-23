@@ -1,3 +1,23 @@
+# IDE
+.idea/
+.vscode/
+
+# Archives
+*.gz
+*.rar
+*.tar
+*.tz
+*.zip
+*.7z
+
+# Just ignore
+*.ignore
+*.x
+
+# macOS
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
